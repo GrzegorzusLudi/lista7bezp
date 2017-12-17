@@ -1,0 +1,5 @@
+Wielkość klucza	generowanie klucza	podpisywanie	weryfikacja     podpisywanie (2)    weryfikacja (2)
+2k		0.125419 s		0.010323 s	0.010529 s      0.016311 s          0.005296 s
+4k		1.82252 s		0.064112 s	0.032345 s      0.111037 s          0.032382 s
+8k		10.8551 s		0.366118 s	0.183455 s      0.558649 s          0.202747 s
+16k		261.559 s		2.08446 s	1.0489 s        3.14198 s           1.0702 s
